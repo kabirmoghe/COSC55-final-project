@@ -27,3 +27,8 @@ First and foremost, we felt that the level of data manipulation and back-end acc
 Additionally, we would have potentially implemented a more realistic way for users to tap into the data, with that being some sort of frontend (via PHP or a more modern equivalent via Flask, React, etc.) to at least emulate a real-world application. That way, there would be a more realistic end-to-end feel to the solution, despite the fact that our solution showcases secure data access, and this additional step would simply be an engine on top of that. 
 
 Lastly, given how important of a space this is, Lorenzo and I are curious on additional ways in which enterprises are securing their sensitive data, and we would go about researching and implementing additional means of allowing access into data that keeps credentials and other "secrets" secure.
+
+---
+
+*This project was developed as part of Dartmouth's COSC50 course, Spring 2023.*
+
