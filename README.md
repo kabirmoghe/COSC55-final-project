@@ -30,5 +30,5 @@ Lastly, given how important of a space this is, Lorenzo and I are curious on add
 
 ---
 
-*This project was developed as part of Dartmouth's COSC50 course, Spring 2023.*
+*This project was developed as part of Dartmouth's COSC55 course, Summer 2024.*
 
