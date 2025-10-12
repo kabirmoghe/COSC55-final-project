@@ -36,7 +36,7 @@ def lambda_handler(event, context):
     try:
         get_secret_value_response = client.get_secret_value(SecretId=secret_name)
         secret = get_secret_value_response['SecretString']
-        print(f"Retrieved secret {secret}")
+        print("Retrieved secret")
 
         # Parse the secret string (assuming it's in JSON format)
         db_credentials = json.loads(secret)
